@@ -1,0 +1,845 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{CDR}{article}{}
+      \name{author}{1}{}{%
+        {{hash=37609d920437d8482e581366db645ab4}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           given={L.\bibnamedelimi Serafini},
+           giveni={L\bibinitperiod\bibinitdelim S\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{37609d920437d8482e581366db645ab4}
+      \strng{fullhash}{37609d920437d8482e581366db645ab4}
+      \strng{bibnamehash}{37609d920437d8482e581366db645ab4}
+      \strng{authorbibnamehash}{37609d920437d8482e581366db645ab4}
+      \strng{authornamehash}{37609d920437d8482e581366db645ab4}
+      \strng{authorfullhash}{37609d920437d8482e581366db645ab4}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{MariX Conceptual Design Report}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://repodip.fisica.unimi.it/marix/MariX_CDR.pdf
+      \endverb
+      \verb{url}
+      \verb https://repodip.fisica.unimi.it/marix/MariX_CDR.pdf
+      \endverb
+    \endentry
+    \entry{Jacobson1953}{article}{}
+      \name{author}{1}{}{%
+        {{hash=f478e3c89d49aecd120a045c1e935f3f}{%
+           family={Jacobson},
+           familyi={J\bibinitperiod},
+           given={Bertil},
+           giveni={B\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Informa {UK} Limited}%
+      }
+      \strng{namehash}{f478e3c89d49aecd120a045c1e935f3f}
+      \strng{fullhash}{f478e3c89d49aecd120a045c1e935f3f}
+      \strng{bibnamehash}{f478e3c89d49aecd120a045c1e935f3f}
+      \strng{authorbibnamehash}{f478e3c89d49aecd120a045c1e935f3f}
+      \strng{authornamehash}{f478e3c89d49aecd120a045c1e935f3f}
+      \strng{authorfullhash}{f478e3c89d49aecd120a045c1e935f3f}
+      \field{sortinit}{4}
+      \field{sortinithash}{11cdaee3b18e01d77f3f428b13c1fc76}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Acta Radiologica}
+      \field{month}{6}
+      \field{number}{6}
+      \field{title}{Dichromatic Absorption Radiography. Dichromography}
+      \field{volume}{39}
+      \field{year}{1953}
+      \field{pages}{437\bibrangedash 452}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.3109/00016925309136730
+      \endverb
+    \endentry
+    \entry{Lehmann1981}{article}{}
+      \name{author}{7}{}{%
+        {{hash=92a4f7977711798c6af6705481533bf4}{%
+           family={Lehmann},
+           familyi={L\bibinitperiod},
+           given={L.\bibnamedelimi A.},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=e5fb5a39aef03d7642c9aafbb256c76d}{%
+           family={Alvarez},
+           familyi={A\bibinitperiod},
+           given={R.\bibnamedelimi E.},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=387423548ca4349e2b3fa90b0e31d2fc}{%
+           family={Macovski},
+           familyi={M\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=c5e745cb65ebbaaf387fd8c9231a13dc}{%
+           family={Brody},
+           familyi={B\bibinitperiod},
+           given={W.\bibnamedelimi R.},
+           giveni={W\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=7d864c0e6081d628055f692e839bd3df}{%
+           family={Pelc},
+           familyi={P\bibinitperiod},
+           given={N.\bibnamedelimi J.},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=0d028143f6da74da21e2b342daea4a75}{%
+           family={Riederer},
+           familyi={R\bibinitperiod},
+           given={S.\bibnamedelimi J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=8b83c918e5f708e9f9b2047d888b31b0}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={A.\bibnamedelimi L.},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{2a3e9263d85eaaa39765e473bf2c35ce}
+      \strng{fullhash}{84d6392092e0c571fb0e4b2ca0e8787b}
+      \strng{bibnamehash}{2a3e9263d85eaaa39765e473bf2c35ce}
+      \strng{authorbibnamehash}{2a3e9263d85eaaa39765e473bf2c35ce}
+      \strng{authornamehash}{2a3e9263d85eaaa39765e473bf2c35ce}
+      \strng{authorfullhash}{84d6392092e0c571fb0e4b2ca0e8787b}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Medical Physics}
+      \field{title}{Generalized image combinations in dual \{KVP\} digital radiography}
+      \field{year}{1981}
+      \field{pages}{659\bibrangedash 667}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1118/1.595025
+      \endverb
+    \endentry
+    \entry{Lewin2003}{article}{}
+      \name{author}{4}{}{%
+        {{hash=ddc647cbdb8bf3af3fb11c20a3620019}{%
+           family={Lewin},
+           familyi={L\bibinitperiod},
+           given={John\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=a60be2f0f789f85cf55ddf0955557967}{%
+           family={Isaacs},
+           familyi={I\bibinitperiod},
+           given={Pamela\bibnamedelima K.},
+           giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=4dc61a91dbb5557d35dc84710c217ec6}{%
+           family={Vance},
+           familyi={V\bibinitperiod},
+           given={Virginia},
+           giveni={V\bibinitperiod}}}%
+        {{hash=6ca388635eb86b75dafd6e0abf9852c4}{%
+           family={Larke},
+           familyi={L\bibinitperiod},
+           given={Fred\bibnamedelima J.},
+           giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Radiological Society of North America ({RSNA})}%
+      }
+      \strng{namehash}{1ec929715532392c57725f6a90d2c755}
+      \strng{fullhash}{83ba79916896a6f60bb31677fc961c46}
+      \strng{bibnamehash}{1ec929715532392c57725f6a90d2c755}
+      \strng{authorbibnamehash}{1ec929715532392c57725f6a90d2c755}
+      \strng{authornamehash}{1ec929715532392c57725f6a90d2c755}
+      \strng{authorfullhash}{83ba79916896a6f60bb31677fc961c46}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Radiology}
+      \field{title}{Dual-Energy Contrast-enhanced Digital Subtraction Mammography: Feasibility}
+      \field{year}{2003}
+      \field{pages}{261\bibrangedash 268}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1148/radiol.2291021276
+      \endverb
+    \endentry
+    \entry{Black2001}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ad6d8ef0942c00540b3470bbf5fe3ee0}{%
+           family={Black},
+           familyi={B\bibinitperiod},
+           given={Eric\bibnamedelima D.},
+           giveni={E\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Association of Physics Teachers ({AAPT})}%
+      }
+      \strng{namehash}{ad6d8ef0942c00540b3470bbf5fe3ee0}
+      \strng{fullhash}{ad6d8ef0942c00540b3470bbf5fe3ee0}
+      \strng{bibnamehash}{ad6d8ef0942c00540b3470bbf5fe3ee0}
+      \strng{authorbibnamehash}{ad6d8ef0942c00540b3470bbf5fe3ee0}
+      \strng{authornamehash}{ad6d8ef0942c00540b3470bbf5fe3ee0}
+      \strng{authorfullhash}{ad6d8ef0942c00540b3470bbf5fe3ee0}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{American Journal of Physics}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{An introduction to Pound{–}Drever{–}Hall laser frequency stabilization}
+      \field{volume}{69}
+      \field{year}{2001}
+      \field{pages}{79\bibrangedash 87}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1119/1.1286663
+      \endverb
+    \endentry
+    \entry{Strickland1985}{article}{}
+      \name{author}{2}{}{%
+        {{hash=02b8da01369636705d491e3cc20e7984}{%
+           family={Strickland},
+           familyi={S\bibinitperiod},
+           given={Donna},
+           giveni={D\bibinitperiod}}}%
+        {{hash=c14b305d6ca186c4f28f522e5fc8d3c1}{%
+           family={Mourou},
+           familyi={M\bibinitperiod},
+           given={Gerard},
+           giveni={G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier {BV}}%
+      }
+      \strng{namehash}{88fe42f9cce439b50668aa2e65b78546}
+      \strng{fullhash}{88fe42f9cce439b50668aa2e65b78546}
+      \strng{bibnamehash}{88fe42f9cce439b50668aa2e65b78546}
+      \strng{authorbibnamehash}{88fe42f9cce439b50668aa2e65b78546}
+      \strng{authornamehash}{88fe42f9cce439b50668aa2e65b78546}
+      \strng{authorfullhash}{88fe42f9cce439b50668aa2e65b78546}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Optics Communications}
+      \field{month}{12}
+      \field{number}{3}
+      \field{title}{Compression of amplified chirped optical pulses}
+      \field{volume}{56}
+      \field{year}{1985}
+      \field{pages}{219\bibrangedash 221}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1016/0030-4018(85)90120-8
+      \endverb
+    \endentry
+    \entry{Paschotta1997}{article}{}
+      \name{author}{4}{}{%
+        {{hash=aaa262e879743b03d7bb9ab471bae1de}{%
+           family={Paschotta},
+           familyi={P\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=8853febd1a800170e3a01a2fb1717db3}{%
+           family={Nilsson},
+           familyi={N\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=a4018f3a7c59faae25f67705571d5c45}{%
+           family={Tropper},
+           familyi={T\bibinitperiod},
+           given={A.C.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=6f250b30a16202207ff0e1dff26640e3}{%
+           family={Hanna},
+           familyi={H\bibinitperiod},
+           given={D.C.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Institute of Electrical}%
+        {Electronics Engineers ({IEEE})}%
+      }
+      \strng{namehash}{700294dcf278c42b07395e899afdae0e}
+      \strng{fullhash}{2e717077b5ce11f04f5277f537335a2c}
+      \strng{bibnamehash}{700294dcf278c42b07395e899afdae0e}
+      \strng{authorbibnamehash}{700294dcf278c42b07395e899afdae0e}
+      \strng{authornamehash}{700294dcf278c42b07395e899afdae0e}
+      \strng{authorfullhash}{2e717077b5ce11f04f5277f537335a2c}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{IEEE} Journal of Quantum Electronics}
+      \field{month}{7}
+      \field{number}{7}
+      \field{title}{Ytterbium-doped fiber amplifiers}
+      \field{volume}{33}
+      \field{year}{1997}
+      \field{pages}{1049\bibrangedash 1056}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1109/3.594865
+      \endverb
+    \endentry
+    \entry{Stolen1978}{article}{}
+      \name{author}{2}{}{%
+        {{hash=71526999919ef8cf9633f19094a5b9e2}{%
+           family={Stolen},
+           familyi={S\bibinitperiod},
+           given={R.\bibnamedelimi H.},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=014c50477fc616079acb1046c7e24a5d}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Chinlon},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society ({APS})}%
+      }
+      \strng{namehash}{4220400b293b82e690e54fcdd19d655b}
+      \strng{fullhash}{4220400b293b82e690e54fcdd19d655b}
+      \strng{bibnamehash}{4220400b293b82e690e54fcdd19d655b}
+      \strng{authorbibnamehash}{4220400b293b82e690e54fcdd19d655b}
+      \strng{authornamehash}{4220400b293b82e690e54fcdd19d655b}
+      \strng{authorfullhash}{4220400b293b82e690e54fcdd19d655b}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review A}
+      \field{month}{4}
+      \field{number}{4}
+      \field{title}{Self-phase-modulation in silica optical fibers}
+      \field{volume}{17}
+      \field{year}{1978}
+      \field{pages}{1448\bibrangedash 1453}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1103/physreva.17.1448
+      \endverb
+    \endentry
+    \entry{Compton1923}{article}{}
+      \name{author}{1}{}{%
+        {{hash=e58cff50b3b4dd21487d08d70fc997f9}{%
+           family={Compton},
+           familyi={C\bibinitperiod},
+           given={Arthur\bibnamedelima H.},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society ({APS})}%
+      }
+      \strng{namehash}{e58cff50b3b4dd21487d08d70fc997f9}
+      \strng{fullhash}{e58cff50b3b4dd21487d08d70fc997f9}
+      \strng{bibnamehash}{e58cff50b3b4dd21487d08d70fc997f9}
+      \strng{authorbibnamehash}{e58cff50b3b4dd21487d08d70fc997f9}
+      \strng{authornamehash}{e58cff50b3b4dd21487d08d70fc997f9}
+      \strng{authorfullhash}{e58cff50b3b4dd21487d08d70fc997f9}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review}
+      \field{month}{5}
+      \field{number}{5}
+      \field{title}{A Quantum Theory of the Scattering of X-rays by Light Elements}
+      \field{volume}{21}
+      \field{year}{1923}
+      \field{pages}{483\bibrangedash 502}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1103/physrev.21.483
+      \endverb
+    \endentry
+    \entry{jackson_classical_1999}{book}{}
+      \name{author}{1}{}{%
+        {{hash=8f23bc53cdd7806edd0460ecc5013f0c}{%
+           family={Jackson},
+           familyi={J\bibinitperiod},
+           given={John\bibnamedelima David},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{8f23bc53cdd7806edd0460ecc5013f0c}
+      \strng{fullhash}{8f23bc53cdd7806edd0460ecc5013f0c}
+      \strng{bibnamehash}{8f23bc53cdd7806edd0460ecc5013f0c}
+      \strng{authorbibnamehash}{8f23bc53cdd7806edd0460ecc5013f0c}
+      \strng{authornamehash}{8f23bc53cdd7806edd0460ecc5013f0c}
+      \strng{authorfullhash}{8f23bc53cdd7806edd0460ecc5013f0c}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3rd ed.}
+      \field{isbn}{9780471309321}
+      \field{title}{Classical electrodynamics}
+      \field{year}{1999}
+    \endentry
+    \entry{Drebot2017}{article}{}
+      \name{author}{3}{}{%
+        {{hash=6a1a8dc5096482acffa17b46f934350d}{%
+           family={Drebot},
+           familyi={D\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod}}}%
+        {{hash=eba7a32dad6a380a9a71617a47439537}{%
+           family={Petrillo},
+           familyi={P\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=6fe4e4250cddc2eb52451dacf22b184c}{%
+           family={Serafini},
+           familyi={S\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{IOP} Publishing}%
+      }
+      \strng{namehash}{893c9806f236f794c5f8cd82e00687e6}
+      \strng{fullhash}{ccdc60e30434f3622851a05d66b4c1be}
+      \strng{bibnamehash}{ccdc60e30434f3622851a05d66b4c1be}
+      \strng{authorbibnamehash}{ccdc60e30434f3622851a05d66b4c1be}
+      \strng{authornamehash}{893c9806f236f794c5f8cd82e00687e6}
+      \strng{authorfullhash}{ccdc60e30434f3622851a05d66b4c1be}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{EPL} (Europhysics Letters)}
+      \field{month}{10}
+      \field{title}{Two-colour X-gamma ray inverse Compton back-scattering source}
+      \field{year}{2017}
+      \verb{doi}
+      \verb 10.1209/0295-5075/120/14002
+      \endverb
+    \endentry
+    \entry{Variola2011}{article}{}
+      \name{author}{7}{}{%
+        {{hash=ff6c2caa7e5450d24602706cad2a8021}{%
+           family={Variola},
+           familyi={V\bibinitperiod},
+           given={Alessandro},
+           giveni={A\bibinitperiod}}}%
+        {{hash=0cb06672b8c05a31220d175ecf4e6492}{%
+           family={Zomer},
+           familyi={Z\bibinitperiod},
+           given={Fabian},
+           giveni={F\bibinitperiod}}}%
+        {{hash=d0c9655de638f462a4b41a9cb00bb3d4}{%
+           family={Bulyak},
+           familyi={B\bibinitperiod},
+           given={Eugene},
+           giveni={E\bibinitperiod}}}%
+        {{hash=1756db8f4c122ba5752e45c48205eed9}{%
+           family={Gladkikh},
+           familyi={G\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+        {{hash=c3837e21e0b99205cd41935d4a104873}{%
+           family={Skomorokhov},
+           familyi={S\bibinitperiod},
+           given={Vladislav},
+           giveni={V\bibinitperiod}}}%
+        {{hash=d7d1a790bd33392192df8034050cf69d}{%
+           family={Omori},
+           familyi={O\bibinitperiod},
+           given={Tsunehiko},
+           giveni={T\bibinitperiod}}}%
+        {{hash=ceb677adb129c981b94287499bad643b}{%
+           family={Urakawa},
+           familyi={U\bibinitperiod},
+           given={Junji},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society ({APS})}%
+      }
+      \strng{namehash}{18f9e64013324bc1126191abcd20a228}
+      \strng{fullhash}{295f76d380dba12ffc6bd48d078d9cd4}
+      \strng{bibnamehash}{18f9e64013324bc1126191abcd20a228}
+      \strng{authorbibnamehash}{18f9e64013324bc1126191abcd20a228}
+      \strng{authornamehash}{18f9e64013324bc1126191abcd20a228}
+      \strng{authorfullhash}{295f76d380dba12ffc6bd48d078d9cd4}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review Special Topics - Accelerators and Beams}
+      \field{title}{Luminosity optimization schemes in Compton experiments based on Fabry-Perot optical resonators}
+      \field{year}{2011}
+      \verb{doi}
+      \verb 10.1103/physrevstab.14.031001
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1103/physrevstab.14.031001
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1103/physrevstab.14.031001
+      \endverb
+    \endentry
+    \entry{Brouwer1964}{book}{}
+      \name{author}{1}{}{%
+        {{hash=0cf40f96ecd133b44da606a351995fd3}{%
+           family={{Brouwer}},
+           familyi={B\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{0cf40f96ecd133b44da606a351995fd3}
+      \strng{fullhash}{0cf40f96ecd133b44da606a351995fd3}
+      \strng{bibnamehash}{0cf40f96ecd133b44da606a351995fd3}
+      \strng{authorbibnamehash}{0cf40f96ecd133b44da606a351995fd3}
+      \strng{authornamehash}{0cf40f96ecd133b44da606a351995fd3}
+      \strng{authorfullhash}{0cf40f96ecd133b44da606a351995fd3}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Matrix Methods in Optical Instrument Design, by Willem Brouwer New York, NY: W.~A.~Benjamin, INC., 1964}
+      \field{month}{4}
+      \field{title}{{Matrix Methods in Optical Instrument Design}}
+      \field{year}{1964}
+    \endentry
+    \entry{siegman86}{book}{}
+      \name{author}{1}{}{%
+        {{hash=fb6a5a2606cbca6850aadb5b5fea0671}{%
+           family={Siegman},
+           familyi={S\bibinitperiod},
+           given={Anthony\bibnamedelima E.},
+           giveni={A\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {University Science Books}%
+      }
+      \strng{namehash}{fb6a5a2606cbca6850aadb5b5fea0671}
+      \strng{fullhash}{fb6a5a2606cbca6850aadb5b5fea0671}
+      \strng{bibnamehash}{fb6a5a2606cbca6850aadb5b5fea0671}
+      \strng{authorbibnamehash}{fb6a5a2606cbca6850aadb5b5fea0671}
+      \strng{authornamehash}{fb6a5a2606cbca6850aadb5b5fea0671}
+      \strng{authorfullhash}{fb6a5a2606cbca6850aadb5b5fea0671}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Lasers}
+      \field{year}{1986}
+      \keyw{cavityQED laser optics}
+    \endentry
+    \entry{Plachenov2011}{article}{}
+      \name{author}{2}{}{%
+        {{hash=2849bc8a0fcf325de7a5d795d5cc67da}{%
+           family={Plachenov},
+           familyi={P\bibinitperiod},
+           given={A\bibnamedelima B},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=50c314873acef955d99cda652ff29c16}{%
+           family={Radin},
+           familyi={R\bibinitperiod},
+           given={A\bibnamedelima M},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{IOP} Publishing}%
+      }
+      \strng{namehash}{1a43f0cabb59e408a606fa0edd484a23}
+      \strng{fullhash}{1a43f0cabb59e408a606fa0edd484a23}
+      \strng{bibnamehash}{1a43f0cabb59e408a606fa0edd484a23}
+      \strng{authorbibnamehash}{1a43f0cabb59e408a606fa0edd484a23}
+      \strng{authornamehash}{1a43f0cabb59e408a606fa0edd484a23}
+      \strng{authorfullhash}{1a43f0cabb59e408a606fa0edd484a23}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Quantum Electronics}
+      \field{title}{Analytical description of a Gaussian beam in a ring resonator with a nonplanar axial contour and an odd number of mirrors}
+      \field{year}{2011}
+      \verb{doi}
+      \verb 10.1070/qe2011v041n01abeh014422
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1070/qe2011v041n01abeh014422
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1070/qe2011v041n01abeh014422
+      \endverb
+    \endentry
+    \entry{svelto2010}{book}{}
+      \name{author}{1}{}{%
+        {{hash=10e05590e92f448b8b34ef7cf5a33a8f}{%
+           family={Svelto},
+           familyi={S\bibinitperiod},
+           given={Orazio},
+           giveni={O\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{10e05590e92f448b8b34ef7cf5a33a8f}
+      \strng{fullhash}{10e05590e92f448b8b34ef7cf5a33a8f}
+      \strng{bibnamehash}{10e05590e92f448b8b34ef7cf5a33a8f}
+      \strng{authorbibnamehash}{10e05590e92f448b8b34ef7cf5a33a8f}
+      \strng{authornamehash}{10e05590e92f448b8b34ef7cf5a33a8f}
+      \strng{authorfullhash}{10e05590e92f448b8b34ef7cf5a33a8f}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{3}
+      \field{title}{Principles of Lasers}
+      \field{year}{2010}
+    \endentry
+    \entry{Garmire2003}{article}{}
+      \name{author}{1}{}{%
+        {{hash=47edd2a1bf15dc7bb0661341f4edfbfc}{%
+           family={Garmire},
+           familyi={G\bibinitperiod},
+           given={Elsa},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The Optical Society}%
+      }
+      \strng{namehash}{47edd2a1bf15dc7bb0661341f4edfbfc}
+      \strng{fullhash}{47edd2a1bf15dc7bb0661341f4edfbfc}
+      \strng{bibnamehash}{47edd2a1bf15dc7bb0661341f4edfbfc}
+      \strng{authorbibnamehash}{47edd2a1bf15dc7bb0661341f4edfbfc}
+      \strng{authornamehash}{47edd2a1bf15dc7bb0661341f4edfbfc}
+      \strng{authorfullhash}{47edd2a1bf15dc7bb0661341f4edfbfc}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Optics}
+      \field{month}{9}
+      \field{title}{Theory of quarter-wave-stack dielectric mirrors used in a thin Fabry-Perot filter}
+      \field{year}{2003}
+      \verb{doi}
+      \verb 10.1364/ao.42.005442
+      \endverb
+    \endentry
+    \entry{Winkler1991}{article}{}
+      \name{author}{4}{}{%
+        {{hash=7740188d9f4bbfc07f3d5ffa1a4bf3d2}{%
+           family={Winkler},
+           familyi={W\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+        {{hash=e101b179617335c81080285eec173189}{%
+           family={Danzmann},
+           familyi={D\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=e5a6f913902a0408cb8862414f697840}{%
+           family={Rüdiger},
+           familyi={R\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e46e3813e829cc983eadf649d835fc2f}{%
+           family={Schilling},
+           familyi={S\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society ({APS})}%
+      }
+      \strng{namehash}{2952fe4438a5cef4c0a722d980e7f193}
+      \strng{fullhash}{60774d1b1b1335ed48d519e21b5adc8e}
+      \strng{bibnamehash}{2952fe4438a5cef4c0a722d980e7f193}
+      \strng{authorbibnamehash}{2952fe4438a5cef4c0a722d980e7f193}
+      \strng{authornamehash}{2952fe4438a5cef4c0a722d980e7f193}
+      \strng{authorfullhash}{60774d1b1b1335ed48d519e21b5adc8e}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review A}
+      \field{month}{12}
+      \field{title}{Heating by optical absorption and the performance of interferometric gravitational-wave detectors}
+      \field{year}{1991}
+      \verb{doi}
+      \verb 10.1103/physreva.44.7022
+      \endverb
+    \endentry
+    \entry{Klaassen2005}{article}{}
+      \name{author}{4}{}{%
+        {{hash=690ecdcd654db85345b7d74dd9c05b2d}{%
+           family={Klaassen},
+           familyi={K\bibinitperiod},
+           given={Thijs},
+           giveni={T\bibinitperiod}}}%
+        {{hash=97571e483c02a5aaf0aedc1c263d28d9}{%
+           family={Jong},
+           familyi={J\bibinitperiod},
+           given={Johan},
+           giveni={J\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=e6a06d6202410287af71fdb5c4947f90}{%
+           family={Exter},
+           familyi={E\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+        {{hash=4f6e4de47ffd3a2a8676f6545aaf7de9}{%
+           family={Woerdman},
+           familyi={W\bibinitperiod},
+           given={J.\bibnamedelimi P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The Optical Society}%
+      }
+      \strng{namehash}{187454ff514e01cbb8867f9944e374f2}
+      \strng{fullhash}{d18a7e61984182093c88fe22fc865894}
+      \strng{bibnamehash}{187454ff514e01cbb8867f9944e374f2}
+      \strng{authorbibnamehash}{187454ff514e01cbb8867f9944e374f2}
+      \strng{authornamehash}{187454ff514e01cbb8867f9944e374f2}
+      \strng{authorfullhash}{d18a7e61984182093c88fe22fc865894}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Optics Letters}
+      \field{title}{Transverse mode coupling in an optical resonator}
+      \field{year}{2005}
+      \verb{doi}
+      \verb 10.1364/ol.30.001959
+      \endverb
+    \endentry
+    \entry{Kleckner2010}{article}{}
+      \name{author}{4}{}{%
+        {{hash=39bd880ee917d3395ce05703d52ca68d}{%
+           family={Kleckner},
+           familyi={K\bibinitperiod},
+           given={Dustin},
+           giveni={D\bibinitperiod}}}%
+        {{hash=038a44b0d5bd847bde16164224771826}{%
+           family={Irvine},
+           familyi={I\bibinitperiod},
+           given={William\bibnamedelimb T.\bibnamedelimi M.},
+           giveni={W\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=09bce4219bbc369026c3fa24bbcd6618}{%
+           family={Oemrawsingh},
+           familyi={O\bibinitperiod},
+           given={Sumant\bibnamedelimb S.\bibnamedelimi R.},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=89502fdfd61cf93e14342b70f9759288}{%
+           family={Bouwmeester},
+           familyi={B\bibinitperiod},
+           given={Dirk},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society ({APS})}%
+      }
+      \strng{namehash}{0fad970b5a6d2c4c2398f94ad0fc1910}
+      \strng{fullhash}{c70ef7cc8fd126b631d383ccfb94150b}
+      \strng{bibnamehash}{0fad970b5a6d2c4c2398f94ad0fc1910}
+      \strng{authorbibnamehash}{0fad970b5a6d2c4c2398f94ad0fc1910}
+      \strng{authornamehash}{0fad970b5a6d2c4c2398f94ad0fc1910}
+      \strng{authorfullhash}{c70ef7cc8fd126b631d383ccfb94150b}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review A}
+      \field{title}{Diffraction-limited high-finesse optical cavities}
+      \field{year}{2010}
+      \verb{doi}
+      \verb 10.1103/physreva.81.043814
+      \endverb
+    \endentry
+    \entry{Benedikter2015}{article}{}
+      \name{author}{7}{}{%
+        {{hash=2fc6aa2e0659f685da27a925be3b3974}{%
+           family={Benedikter},
+           familyi={B\bibinitperiod},
+           given={Julia},
+           giveni={J\bibinitperiod}}}%
+        {{hash=7098e537663cb57f6c71d526e5b7ce78}{%
+           family={Hümmer},
+           familyi={H\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod}}}%
+        {{hash=3b80581ae180a8a5fc31e5ea7ffcb7c5}{%
+           family={Mader},
+           familyi={M\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod}}}%
+        {{hash=ba7ad6b48fa6b2a53f601c02464ce537}{%
+           family={Schlederer},
+           familyi={S\bibinitperiod},
+           given={Benedikt},
+           giveni={B\bibinitperiod}}}%
+        {{hash=79da287e956af357db277ecf4c9e2f6d}{%
+           family={Reichel},
+           familyi={R\bibinitperiod},
+           given={Jakob},
+           giveni={J\bibinitperiod}}}%
+        {{hash=6e0012dd9b3334b5b42010570128744f}{%
+           family={Hänsch},
+           familyi={H\bibinitperiod},
+           given={Theodor\bibnamedelima W},
+           giveni={T\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=8ec99a22b4d0d0372948139b271a2c5d}{%
+           family={Hunger},
+           familyi={H\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {{IOP} Publishing}%
+      }
+      \strng{namehash}{812bc149faa9570067e6e57b98d04200}
+      \strng{fullhash}{4b0634cc55aa35a9896d7b993f05fe71}
+      \strng{bibnamehash}{812bc149faa9570067e6e57b98d04200}
+      \strng{authorbibnamehash}{812bc149faa9570067e6e57b98d04200}
+      \strng{authornamehash}{812bc149faa9570067e6e57b98d04200}
+      \strng{authorfullhash}{4b0634cc55aa35a9896d7b993f05fe71}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{New Journal of Physics}
+      \field{title}{Transverse-mode coupling and diffraction loss in tunable Fabry{–}P{é}rot microcavities}
+      \field{year}{2015}
+      \verb{doi}
+      \verb 10.1088/1367-2630/17/5/053051
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

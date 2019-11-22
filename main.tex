@@ -1,0 +1,60 @@
+\documentclass[12pt,a4paper, twoside,openright]{report}
+  \usepackage{fontenc}
+  \usepackage{pdfpages} %for titlepage
+  \usepackage[utf8]{inputenc}
+  \usepackage{float}
+  \usepackage{physics}
+  \usepackage{amsmath}
+  \usepackage{mathtools}
+  \usepackage{amsfonts}
+  \usepackage{amssymb}
+  \usepackage{graphicx}
+  \usepackage{csquotes}
+  \usepackage{hyperref}
+  \usepackage{subfigure}
+  \usepackage{rotating} %for rotating images
+  %\\usepackage{subcaption}
+  \usepackage{fancyhdr}
+  \pagestyle{fancy}
+  \fancyhead{}
+  \fancyhead[RE]{\leftmark}
+  \fancyhead[LO]{\rightmark}
+  \fancyfoot{}
+  \fancyfoot[C]{\thepage}
+  \usepackage{gensymb} %degree symbol
+  \usepackage[%
+  backend=biber,
+  style=numeric,
+  natbib=true,
+  backref=false,
+  backrefstyle=all+,
+  hyperref=true,
+  citestyle=numeric,
+  maxcitenames=2,
+  sorting=none,
+  ]{biblatex}
+  %\renewcommand\nametitledelim{\ifin{textcite}{\addspace}{\addspace\addcomma}}
+  \renewcommand*{\nameyeardelim}{\addspace}
+  \renewcommand{\floatpagefraction}{.8}%less floaty images
+  
+  \addbibresource{bibliography.bib}
+  \linespread{1.2}
+ 
+  \binoppenalty=\maxdimen
+  \relpenalty=\maxdimen %don't break equations
+ \begin{document}
+ 	\includepdf{titlepage}
+ 	\include{summary}
+ 	\chapter*{}
+ 	\begin{flushright}
+ 		Ai miei genitori, Franca e Andrea
+ 	\end{flushright}
+ 	\tableofcontents
+	\include{introduction}
+	\include{theory}
+	\include{feedback}
+	\include{experiments}
+	\include{Conclusions}
+	
+	\printbibliography
+ \end{document}

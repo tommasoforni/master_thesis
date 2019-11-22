@@ -1,0 +1,105 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Introduction}{9}{chapter.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}The MariX project}{9}{section.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}BriXS (Bright compact X-rays Source)}{11}{section.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}The Laser system}{14}{section.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.3.1}Laser oscillator}{15}{subsection.1.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.3.2}Fiber amplifiers}{17}{subsection.1.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.3.3}Fabry-Perot cavities}{20}{subsection.1.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.3.4}4th armonic generation}{22}{subsection.1.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.3.5}Temporal shaping}{24}{subsection.1.3.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.3.6}Spatial shaping}{25}{subsection.1.3.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.3.7}Mach-Zender amplitude modulator}{25}{subsection.1.3.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.3.8}Stabilization systems}{26}{subsection.1.3.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Theoretical concepts}{29}{chapter.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}The inverse Compton scattering process}{29}{section.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.1}Direct Compton and Thomson scattering}{29}{subsection.2.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.2}Inverse Compton scattering}{31}{subsection.2.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Optical cavities}{35}{section.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.1}Ray optics and the ABCD matrix formalism}{36}{subsection.2.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Stability of optical resonators}{39}{section*.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{The 3x3 Matrix formalism for misaligned elements}{41}{section*.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Cavity focus movement through moving mirrors}{43}{section*.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.2}Longitudinal and transverse modes}{45}{subsection.2.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.3}Cavity Finesse and enhancement of the optical power}{48}{subsection.2.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.4}Spectral coupling between cavity and oscillator}{50}{subsection.2.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Effect of the $f_\mathrm {CEO}$}{51}{section*.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Effect of the mirror dispersion}{54}{section*.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.5}Thermal effects and the compensation method}{56}{subsection.2.2.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Degenerate mode coupling}{57}{section*.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Stabilization through feedback}{63}{chapter.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}The PDH technique}{63}{section.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Feedback system}{66}{section.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Discriminator}{67}{section*.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Servo}{68}{section*.11}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Actuator}{68}{section*.12}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Feedback loop}{71}{section*.13}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Experimental Results}{77}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}Experimental setup}{77}{section.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.1}Bow-tie cavities}{79}{subsection.4.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.2}The PDH stabilization systems}{80}{subsection.4.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Stabilization procedure}{80}{section*.14}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}Experimental measurements}{83}{section.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.1}Cavity Finesse measurement}{83}{subsection.4.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.2}Power Spectral Density Noise measurement}{85}{subsection.4.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.3}Spatial and spectral coupling}{88}{subsection.4.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Spatial coupling}{88}{section*.15}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Spectral coupling}{90}{section*.16}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Mirror reflectivities}{93}{section*.17}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.4}Compensation method}{97}{subsection.4.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.5}Cavity waist movement}{99}{subsection.4.2.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Mirror tilting measurement}{99}{section*.18}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Focus movement measurement}{101}{section*.19}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Conclusions}{107}{chapter.5}
